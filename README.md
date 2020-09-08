@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full Stack Web Developer with a special focus on React, Redux, and Node.js. I'm passionate about learning and innovating. My favorite languages are JavaScript and Python.
+I am a Full Stack Web Developer with a special focus on React, Redux, and Node.js. I am passionate about learning and innovating. My favorite languages are JavaScript and Python.
 
 <!--
 **dqxy/dqxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
